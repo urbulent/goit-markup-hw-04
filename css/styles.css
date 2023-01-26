@@ -70,6 +70,11 @@ img {
   align-items: center;
 }
 
+.links {
+  text-decoration: none;
+  color: #2e2f42;
+}
+
 .link {
   text-decoration: none;
 }
@@ -289,7 +294,7 @@ a {
 /* Our Team */
 
 .section-team {
-  background-color: #e5e5e5;
+  background-color: #f4f4fd;
 }
 
 .team-title {
@@ -626,4 +631,8 @@ a {
 .example-subtitle {
   margin-bottom: 8px;
   color: #2e2f42;
+}
+
+.example-text {
+  color: #434455;
 }
